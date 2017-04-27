@@ -1,6 +1,8 @@
 // Version 2.0 of meHungry
 // Using Yelp Fusion API
 
+// using Unicode Character Set
+
 //#define TEST_YELPAUTH
 //#define TEST_USER
 //#define TEST_YELPSEARCH
